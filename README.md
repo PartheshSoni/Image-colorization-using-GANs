@@ -15,3 +15,6 @@ To run the above code:
 
 The model requires approximately 35 hrs to train. Use Google Colab or similar GPU for training purpose.
 
+
+The architecture of the network is inspired from the paper 'Image Colorization using Generative Adversarial Networks' by Kamyar Nazeri, Eric Ng, and Mehran Ebrahimi. (https://arxiv.org/abs/1803.05400)
+ 

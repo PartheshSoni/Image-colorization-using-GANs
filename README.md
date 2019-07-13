@@ -1,4 +1,4 @@
-# Image-colorization-using-GANs
+# Image colorization using GANs
 The code adds color to single channeled images (similar to Black and White images) using GANs 
 
 This code is a project which is used for converting a Black and white image (single channeled) into a colored one. Currently, the architecture uses CIPHER10 dataset for training. The model can be easily trained using free online GPUs like Google colab.

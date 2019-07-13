@@ -20,8 +20,8 @@ The architecture of the network is inspired from the paper 'Image Colorization u
 
 For viewing the result of the model, add this code at the end of the training session and run the cell.
 
-plt_indices = np.random.randint(50000,size=3)
-plt_a = x[plt_indices]
+plt_indices = np.random.randint(50000,size=3)                                                                                              
+plt_a = x[plt_indices]                                                                                                                  
 plt_b = gen.predict(plt_a)
 plt_c = y[plt_indices]
 fig = plot(plt_a,plt_b,plt_c,3)

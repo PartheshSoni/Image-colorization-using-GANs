@@ -15,7 +15,7 @@ To run the above code:
 
 The model requires approximately 35 hrs to train. Use Google Colab or similar GPU for training purpose.
 
-Note: The sample images in PDF file has Greenish Blue color instead of Black and white images as input. This color was used because it gave better visualization of colorless image structure during training, to us, but the model works fine for Black and White images too.
+Note: The sample images in PDF file has Greenish Blue color instead of Black and white color as input. This color was used because it gave better visualization of colorless image structure during training, to us, but the model works fine for Black and White images too.
 
 The architecture of the network is inspired from the paper 'Image Colorization using Generative Adversarial Networks' by Kamyar Nazeri, Eric Ng, and Mehran Ebrahimi. (https://arxiv.org/abs/1803.05400)
 
